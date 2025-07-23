@@ -1,0 +1,12 @@
+[submodule "iot-fe"]
+	path = iot-fe
+	url = https://github.com/Caxtiq/iot-fe.git
+[submodule "iot-be"]
+	path = iot-be
+	url = https://github.com/Caxtiq/iot-be.git
+[submodule "iot-arduino"]
+	path = iot-arduino
+	url = https://github.com/Caxtiq/iot-arduino.git
+[submodule "iot-esp"]
+	path = iot-esp
+	url = https://github.com/Caxtiq/iot-esp.git
